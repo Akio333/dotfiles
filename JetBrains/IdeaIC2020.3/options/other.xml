@@ -1,0 +1,97 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Operator Mono Medium" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="1mjSQhrGtvSpgNpsSBh0pEcyZmz">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1mjbFX4PBS5DTNTwDMOqBNImTZ6">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1myPkjXSu41eOek0vV0y3GNXg2F">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1n8o96K6hSiCuZlCrbdmcCUoJ9V">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1n8oNYy0JVWxqLcFlQldjS6Ebq4">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1n8x5XU0nKsNHTNVrS3TuRktw16">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1nBSMLNFGgwSZyloSBouc9PPwiB">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1nCYYnfuNTF1pbBU6bYknjDQ6Ip">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1nHNyeNA8BnSJYMd6cz5dkD4pCY">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1nHgFknQcAfwHyewl6RP180y8oG">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Code" />
+    <property name="FileTemplates.SelectedTemplate" value="JUnit4 Test Method" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="SettingsSearchHistory" value="format" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="appcds.runOnSecondStart" value="IC-203.6682.168-29481285d4ab72ec192a979ee77965e097f0206a69b51149c1b10b399a2cdf6d" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="debugger.smart.chooser.counter" value="2" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/projects/BridgeLabz/Fellowship/Java/User-registration&#10;/home/akio/projects/BridgeLabz/Fellowship/Java/Employee-Wage-Builder" />
+    <property name="file.gist.reindex.count" value="23" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="IC-203.6682.168" />
+    <property name="installed.kotlin.plugin.version" value="203-1.4.21-release-IJ6682.9" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="kotlin.plugin.releaseDate" value="203-1.4.21-release-IJ6682.9:2021-01-04" />
+    <property name="lastSeenTip" value="neue-InspectCode.html" />
+    <property name="lastTimeTipsWereShown" value="1610989122633" />
+    <property name="last_opened_file_path" value="$USER_HOME$/projects/BridgeLabz/Fellowship/Java/Employee-Wage-Builder" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1610780925560" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.InternalMavenModuleBuilder" />
+    <property name="seenTips" value="neue-Antivirus.html,neue-GoToInspection.html,neue-VariableNameCompletion.html,neue-BreakpointSpeedmenu.html,neue-CtrlShiftIForLookup.html,neue-InspectCode.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

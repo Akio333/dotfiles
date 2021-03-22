@@ -1,0 +1,31 @@
+#Alias For conda environment
+alias ctf2="conda activate yolov3-tf2-gpu"
+alias ctf1="conda activate tf"
+alias ctp="conda activate tp"
+
+#Alias for some apps launching
+alias htop="htop -t"
+alias df="df -h"
+alias aptup="sudo apt update && sudo apt upgrade"
+alias app="sudo apt install"
+alias nethog="sudo nethogs -a wlo1"
+
+#common Aliases
+alias la='ls -A'
+alias l='ls -CF'
+alias ll='ls -alF'
+alias ls='ls --color=auto'
+alias grep='grep --color=auto'
+alias mv='mv -i'
+alias rm='rm -i'
+alias cp='cp -i'
+
+alias vim="nvim"
+alias gs="git status"	
+alias g="git"	
+alias gd="git diff"
+alias gc="git clone"
+
+alias project="cd ~/project"
+alias cfg="cd ~/.config"
+
