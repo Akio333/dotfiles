@@ -1,4 +1,7 @@
 0
+/home/akio/.config/variety/Downloaded/nasa_apod/ChristmasTree-ConeNebula-CumeadaObservatoryDSA-net.jpg
+/home/akio/.config/variety/Downloaded/Unsplash/photo-1613987549117-13c4781b32d3.jpg
+/home/akio/.config/variety/Downloaded/Unsplash/photo-1615527484443-3a07221b5750.jpg
 /home/akio/.config/variety/Downloaded/Unsplash/photo-1614893122811-ae9d57bb9904.jpg
 /home/akio/.config/variety/Downloaded/Unsplash/photo-1613931049333-c732a287bdb4.jpg
 /home/akio/.config/variety/Downloaded/nasa_apod/ChicagoClouds_Hersch_3600.jpg
