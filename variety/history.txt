@@ -1,28 +1,101 @@
 0
-/home/akio/.config/variety/Downloaded/nasa_apod/ChristmasTree-ConeNebula-CumeadaObservatoryDSA-net.jpg
-/home/akio/.config/variety/Downloaded/Unsplash/photo-1613987549117-13c4781b32d3.jpg
+/home/akio/Pictures/japan-walls/wHnP3c.jpg
+/home/akio/Pictures/japan-walls/4k.jpg
+/home/akio/Pictures/japan-walls/wHnP3c.jpg
+/home/akio/Pictures/japan-walls/51174.jpg
+/home/akio/Pictures/japan-walls/19076.jpg
+/home/akio/Pictures/japan-walls/4k.jpg
+/home/akio/Pictures/japan-walls/6067fb870e803.jpg
+/home/akio/Pictures/japan-walls/asian-japan-digital-art-4k-sw.jpg
+/home/akio/Pictures/japan-walls/51176.jpg
+/home/akio/Pictures/japan-walls/4k.jpg
+/home/akio/Pictures/japan-walls/wHnP3c.jpg
+/home/akio/Pictures/japan-walls/51176.jpg
+/home/akio/Pictures/japan-walls/tokyo-fireworks-uhd-4k-wallpaper.jpg
+/home/akio/Pictures/japan-walls/6067fb870e803.jpg
+/home/akio/Pictures/japan-walls/1111.jpg
+/home/akio/Pictures/japan-walls/22325.jpg
+/home/akio/Pictures/japan-walls/51174.jpg
+/home/akio/Pictures/japan-walls/51169.jpg
+/home/akio/Pictures/japan-walls/51178.jpg
+/home/akio/Pictures/japan-walls/1112.jpg
+/home/akio/Pictures/japan-walls/51170.jpg
+/home/akio/Pictures/japan-walls/1111.jpg
+/home/akio/Pictures/japan-walls/51176.jpg
+/home/akio/Pictures/japan-walls/1111.jpg
+/home/akio/Pictures/japan-walls/51170.jpg
+/home/akio/Pictures/japan-walls/6067fb870e803.jpg
+/home/akio/Pictures/japan-walls/51174.jpg
+/home/akio/Pictures/japan-walls/19076.jpg
+/home/akio/Pictures/japan-walls/22325.jpg
+/home/akio/Pictures/japan-walls/51170.jpg
+/home/akio/Pictures/japan-walls/19076.jpg
+/home/akio/Pictures/japan-walls/1111.jpg
+/home/akio/Pictures/japan-walls/51176.jpg
+/home/akio/Pictures/japan-walls/4k.jpg
+/home/akio/Pictures/japan-walls/51178.jpg
+/home/akio/Pictures/japan-walls/51174.jpg
+/home/akio/Pictures/japan-walls/51176.jpg
+/home/akio/Pictures/japan-walls/1112.jpg
+/home/akio/Pictures/japan-walls/wHnP3c.jpg
+/home/akio/Pictures/japan-walls/51169.jpg
+/home/akio/Pictures/japan-walls/19076.jpg
+/home/akio/Pictures/japan-walls/51176.jpg
+/home/akio/Pictures/japan-walls/1112.jpg
+/home/akio/Pictures/japan-walls/51170.jpg
+/home/akio/Pictures/japan-walls/1111.jpg
+/home/akio/Pictures/japan-walls/22325.jpg
+/home/akio/Pictures/japan-walls/51174.jpg
+/home/akio/Pictures/japan-walls/51178.jpg
+/home/akio/Pictures/japan-walls/asian-japan-digital-art-4k-sw.jpg
+/home/akio/.config/variety/Downloaded/Bing/OHR.MTCradle_EN-US6777988781_1920x1080.jpg
+/home/akio/.config/variety/Downloaded/Earth View/Karas, Namibia (ID-2346).jpg
+/home/akio/.config/variety/Downloaded/Bing/OHR.MadHares_EN-US7045432576_1920x1080.jpg
+/home/akio/.config/variety/Downloaded/Unsplash/photo-1614796344764-e3158c0dbb13.jpg
+/home/akio/.config/variety/Downloaded/Earth View/Kiribati (ID-6248).jpg
+/home/akio/.config/variety/Downloaded/Unsplash/photo-1615119953426-5bb86fcb7d2d.jpg
+/home/akio/.config/variety/Downloaded/nasa_apod/MVP_Aspinall_2048.jpg
+/home/akio/.config/variety/Downloaded/nasa_apod/markarian_FernandoPena2048.jpg
+/home/akio/.config/variety/Downloaded/Earth View/Ngari, China (ID-1007).jpg
+/home/akio/.config/variety/Downloaded/Unsplash/photo-1616796202002-8195cd222cde.jpg
+/home/akio/.config/variety/Downloaded/Earth View/Traverse City, United States (ID-5039).jpg
+/home/akio/.config/variety/Downloaded/Earth View/Amman, Jordan (ID-2041).jpg
+/home/akio/.config/variety/Downloaded/Earth View/Qoqek, China (ID-5611).jpg
+/home/akio/.config/variety/Downloaded/nasa_apod/AnticrepuscularRays_Patekar_5600.jpg
+/home/akio/.config/variety/Downloaded/Earth View/Aswan Governorate, Egypt (ID-6296).jpg
 /home/akio/.config/variety/Downloaded/Unsplash/photo-1615527484443-3a07221b5750.jpg
-/home/akio/.config/variety/Downloaded/Unsplash/photo-1614893122811-ae9d57bb9904.jpg
-/home/akio/.config/variety/Downloaded/Unsplash/photo-1613931049333-c732a287bdb4.jpg
-/home/akio/.config/variety/Downloaded/nasa_apod/ChicagoClouds_Hersch_3600.jpg
-/home/akio/.config/variety/Downloaded/nasa_apod/ISS002-E-7377_2048c.jpg
-/home/akio/.config/variety/Downloaded/Unsplash/photo-1614443822810-494e4014f6fc.jpg
-/home/akio/.config/variety/Downloaded/Earth View/Orapa, Botswana (ID-1444).jpg
-/home/akio/.config/variety/Downloaded/Earth View/Hong Kong, Hong Kong (ID-2218).jpg
-/home/akio/.config/variety/Downloaded/Unsplash/photo-1616081753700-fc76fa2b9dce.jpg
-/home/akio/.config/variety/Downloaded/Earth View/Khanik, Iraq (ID-6519).jpg
-/home/akio/.config/variety/Downloaded/Earth View/Minton, Canada (ID-1233).jpg
-/home/akio/.config/variety/Downloaded/Earth View/Box Elder County, United States (ID-1049).jpg
-/home/akio/.config/variety/Downloaded/Bing/OHR.ParnidisSundial_EN-US9491593439_1920x1080.jpg
-/home/akio/.config/variety/Downloaded/nasa_apod/PIA23623_fig1.jpg
-/home/akio/.config/variety/Downloaded/Earth View/Al Jufrah, Libya (ID-6263).jpg
-/home/akio/.config/variety/Downloaded/Bing/OHR.HallesWood_EN-US9545891830_1920x1080.jpg
-/home/akio/.config/variety/Downloaded/Earth View/Ennedi, Chad (ID-5389).jpg
-/home/akio/.config/variety/Downloaded/Bing/OHR.MtEtna_EN-US8761813954_1920x1080.jpg
-/home/akio/.config/variety/Downloaded/nasa_apod/seasons_tezel_1080.jpg
-/home/akio/.config/variety/Downloaded/Unsplash/photo-1614490460600-46c26912ac75.jpg
-/home/akio/.config/variety/Downloaded/Bing/OHR.MassapequaOwl_EN-US8469635086_1920x1080.jpg
-/home/akio/.config/variety/Downloaded/Earth View/Dakhlet Nouadhibou, Mauritania (ID-2368).jpg
-/home/akio/.config/variety/Downloaded/Unsplash/photo-1615945791844-a0d706f389f9.jpg
-/home/akio/.config/variety/Downloaded/Bing/OHR.Inisheer_EN-US8680602205_1920x1080.jpg
-/home/akio/Pictures/Wallpapers/165792.jpg
+/home/akio/.config/variety/Downloaded/Earth View/Lai Vung, Vietnam (ID-5618).jpg
+/home/akio/.config/variety/Downloaded/Unsplash/photo-1616179758526-b00260a6755f.jpg
+/home/akio/.config/variety/Downloaded/nasa_apod/Arp273_HubblePohl_1824.jpg
+/home/akio/.config/variety/Downloaded/nasa_apod/msv1500crop.jpg
+/home/akio/.config/variety/Downloaded/Unsplash/photo-1615224299859-c32caa104db2.jpg
+/home/akio/.config/variety/Downloaded/nasa_apod/NoctilucentNetherlands_Simmering_5766.jpg
+/home/akio/.config/variety/Downloaded/Unsplash/photo-1616402455774-0e435c4d4056.jpg
+/home/akio/.config/variety/Downloaded/nasa_apod/earth_cassinimessenger_1799.jpg
+/home/akio/.config/variety/Downloaded/Earth View/Fderik, Mauritania (ID-6365).jpg
+/home/akio/.config/variety/Downloaded/Earth View/Faiyum, Egypt (ID-1720).jpg
+/home/akio/.config/variety/Downloaded/Earth View/Hardap, Namibia (ID-1977).jpg
+/home/akio/.config/variety/Downloaded/Unsplash/photo-1614598943701-92331ea9f894.jpg
+/home/akio/.config/variety/Downloaded/Earth View/Maralinga, Australia (ID-2419).jpg
+/home/akio/.config/variety/Downloaded/Unsplash/photo-1615413234178-3bdefbfbde38.jpg
+/home/akio/.config/variety/Downloaded/Earth View/Khorramshahr, Iran (ID-1639).jpg
+/home/akio/.config/variety/Downloaded/Unsplash/photo-1614999440385-acc897b5e97b.jpg
+/home/akio/.config/variety/Downloaded/Unsplash/photo-1615224102010-e9410976df41.jpg
+/home/akio/.config/variety/Downloaded/Earth View/Sublette, United States (ID-1975).jpg
+/home/akio/.config/variety/Downloaded/Earth View/Libya (ID-6258).jpg
+/home/akio/.config/variety/Downloaded/Unsplash/photo-1614643738701-b3e3b4245dbc.jpg
+/home/akio/.config/variety/Downloaded/Bing/OHR.JeffersonCherries_EN-US7147255858_1920x1080.jpg
+/home/akio/.config/variety/Downloaded/Unsplash/photo-1614529419718-bd2fd9e75066.jpg
+/home/akio/.config/variety/Downloaded/Earth View/Béchar, Algeria (ID-1104).jpg
+/home/akio/.config/variety/Downloaded/Earth View/Antofagasta Province, Chile (ID-2344).jpg
+/home/akio/.config/variety/Downloaded/Bing/OHR.Reynisfjara_EN-US7429542895_1920x1080.jpg
+/home/akio/.config/variety/Downloaded/Earth View/Qoqek, China (ID-5607).jpg
+/home/akio/.config/variety/Downloaded/Bing/OHR.SwordFern_EN-US7523587413_1920x1080.jpg
+/home/akio/.config/variety/Downloaded/nasa_apod/IridescentClouds_Strand_1500.jpg
+/home/akio/.config/variety/Downloaded/Earth View/Atar, Mauritania (ID-1343).jpg
+/home/akio/.config/variety/Downloaded/Unsplash/photo-1615136611620-607c9711c19c.jpg
+/home/akio/.config/variety/Downloaded/nasa_apod/NeowiseAlps_salzgeber_4000.jpg
+/home/akio/.config/variety/Downloaded/nasa_apod/Kristine-Rose-Photography-20200616_001.jpg
+/home/akio/.config/variety/Downloaded/Earth View/Dhofar Governorate, Oman (ID-2067).jpg
+/home/akio/.config/variety/Downloaded/Unsplash/photo-1616445404301-7433dc521d1f.jpg
+/home/akio/.config/variety/Downloaded/Earth View/Beas, Spain (ID-1609).jpg
