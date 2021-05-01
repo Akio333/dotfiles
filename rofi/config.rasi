@@ -4,4 +4,4 @@ configuration {
   show-icons:         true;
   icon-theme:         "Papirus";
 }
-@import "/home/akio/.config/awesome/theme/sidebar.rasi"
+

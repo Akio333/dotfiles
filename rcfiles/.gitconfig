@@ -1,5 +1,0 @@
-[user]
-	email = smulye10@gmail.com
-	name = Akio333
-[credential]
-	helper = /usr/lib/git-core/git-credential-libsecret
