@@ -79,7 +79,7 @@ print_date() {
 }
 
 print_time() {
-    time="$(date "+%H:%M")"
+    time="$(date "+%I:%M %p")"
     echo -ne "^c#A3BE8C^󰥔 ^d^${time}"
 }
 
