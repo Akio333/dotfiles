@@ -86,6 +86,7 @@ vulkan-radeon
 wireplumber
 xarchiver
 xautolock
+xbindkeys
 xclip
 xdg-desktop-portal
 xdg-user-dirs

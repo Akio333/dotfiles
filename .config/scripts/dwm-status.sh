@@ -42,8 +42,8 @@ get_status() {
 # From Reddit 
 
 print_power() {
-    status="$(cat /sys/class/power_supply/AC/online)"
-    battery="$(cat /sys/class/power_supply/BAT0/capacity)"
+    status="$(cat /sys/class/power_supply/ADP1/online)"
+    battery="$(cat /sys/class/power_supply/BAT1/capacity)"
     timer="$(acpi -b | grep "Battery" | awk '{print $5}' | cut -c 1-5)"
     if [ "${status}" == 1 ]; then
         echo -ne "^c#EBCB8B^󰂄 ^d^${battery}%"
@@ -58,7 +58,7 @@ print_backlight() {
 }
 
 print_wifi() {
-    wifissid="$(nmcli -t -f NAME connection show --active)"
+    wifissid="$(nmcli -t -f NAME connection show --active | sed 1q)"
     wifiperc="$(grep "^\s*w" /proc/net/wireless | awk '{ print int($3 * 100 / 70) "%" }')"
     echo -ne "^c#B48EAD^󰲝 ^d^${wifiperc} ${wifissid}"
 }
@@ -104,11 +104,11 @@ print_spotify() {
 
 print_wttr() {
 	loc="Pune"
-	wttr="$(curl -s v2.wttr.in/${loc} | grep -e "Weather" | sed 's/C,.*/C/g; s/+//g; s/.*\[0m.//g; s/.//2')"
+	wttr="$(curl -s v2.wttr.in/${loc} | grep -e "Weather" | sed 's/C,.*/C/g; s/+//g; s/.*\[0m.//g; s/.//2' | sed -n 2p)"
 	echo -ne "${wttr}"
 }
 
 while true; do
-	xsetroot -name " $(print_spotify)  $(print_wifi)  $(print_power)  $(print_backlight)  $(print_volume)  $(print_date)  $(print_time) "
+    xsetroot -name " $(print_spotify)  $(print_wifi)  $(print_power)  $(print_backlight)  $(print_volume)  $(print_date)  $(print_time) $(print_wttr) "
     sleep 1
 done
