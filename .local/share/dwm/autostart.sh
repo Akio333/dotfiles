@@ -6,3 +6,4 @@ xbindkeys &
 xautolock -time 10 -locker i3lock-fancy -nowlocker i3lock-fancy &
 nm-applet &
 flameshot &
+blueman-applet &
