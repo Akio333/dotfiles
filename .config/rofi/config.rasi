@@ -1,5 +1,5 @@
 configuration {
-    font: "Cascadia Code PL 12";
+    font: "Fira Code Nerd Font Med 13";
     line-margin: 10;
 
     display-ssh:    "";

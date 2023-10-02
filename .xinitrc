@@ -5,6 +5,10 @@ usermodmap=$HOME/.Xmodmap
 sysresources=/etc/X11/xinit/.Xresources
 sysmodmap=/etc/X11/xinit/.Xmodmap
 
+# Environment Variables
+export QT_QPA_PLATFORMTHEME=gtk2
+export DISPLAY=:0
+
 # merge in defaults and keymaps
 
 if [ -f $sysresources ]; then

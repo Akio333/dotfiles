@@ -64,12 +64,11 @@ print_wifi() {
 }
 
 print_volume() {
-    mix=`amixer get Master | tail -1`
-    vol="$(amixer get Master | tail -n1 | sed -r 's/.*\[(.*)%\].*/\1/')"
-    if [[ $mix == *\[off\]* ]]; then
+    mix="$(pamixer --get-volume)"
+    if [ $mix == 0 ]; then
         echo -ne "^c#8FBCBB^󰖁 ^d^Muted"
-    elif [[ $mix == *\[on\]* ]]; then
-        echo -ne "^c#88C0D0^󰕾 ^d^${vol}%"
+    elif [ $mix > 0 ]; then
+        echo -ne "^c#88C0D0^󰕾 ^d^${mix}%"
     fi
 }
 
@@ -109,6 +108,6 @@ print_wttr() {
 }
 
 while true; do
-    xsetroot -name " $(print_spotify)  $(print_wifi)  $(print_power)  $(print_backlight)  $(print_volume)  $(print_date)  $(print_time) $(print_wttr) "
+    xsetroot -name " $(print_spotify)  $(print_wifi)  $(print_power)  $(print_backlight)  $(print_volume)  $(print_date)  $(print_time) "
     sleep 1
 done

@@ -109,7 +109,17 @@ alias ohmyzsh="nvim ~/.oh-my-zsh"
 alias ls="exa"
 alias ll="exa -al"
 alias vim="nvim"
+alias startssh="eval `ssh-agent -s`"
 
-export NVM_DIR="$HOME/.config/nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+# Add nodejs packages in path
+export PATH=$HOME/.npm-packages/bin:$PATH
+export PATH=$HOME/.local/bin:$PATH
+
+# export NVM_DIR="$HOME/.nvm"
+# [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+# [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+# nvm use node > /dev/null # This uses latest node installed
+
+
+# Load Angular CLI autocompletion.
+source <(ng completion script)
